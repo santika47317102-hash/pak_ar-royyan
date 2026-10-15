@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-15",
+  "mulai": 6,
+  "iuran": 10000,
+  "warga": [
+    {
+      "nama": "PAK DE ERWAN",
+      "blok": "B39",
+      "iuran": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "tgl": {
+        "6": "2026-10-15",
+        "7": "2026-10-15",
+        "8": "2026-10-15",
+        "9": "2026-10-15",
+        "10": "2026-10-15",
+        "11": "2026-10-15"
+      }
+    }
+  ],
+  "kas": [
+    {
+      "tanggal": "2026-10-15",
+      "uraian": "masuk",
+      "kategori": "sedekah",
+      "masuk": 100000,
+      "keluar": 0
+    }
+  ],
+  "santunan": [],
+  "folders": [],
+  "laporan": [],
+  "pengurus": [],
+  "pembayaran": {
+    "rekening": [],
+    "catatan": "1. Transfer ke rekening di atas\n2. Kirim bukti transfer ke Bendahara\n3. Iuran di bayar paling lambat tanggal 10 tiap bulan"
+  },
+  "ttd": {
+    "tempat": "Banyuasin",
+    "tanggal": "2026-10-08"
+  }
+}
