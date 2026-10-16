@@ -1,0 +1,35 @@
+{
+  "updated": "2026-10-16",
+  "mulai": 6,
+  "iuran": 10000,
+  "warga": [],
+  "kas": [],
+  "santunan": [],
+  "folders": [],
+  "laporan": [],
+  "pengurus": [
+    {
+      "jabatan": "KETUA",
+      "nama": "IBRAHIM",
+      "telp": ""
+    },
+    {
+      "jabatan": "Sekertaris",
+      "nama": "NOPRIJAL",
+      "telp": ""
+    },
+    {
+      "jabatan": "BENDAHARA",
+      "nama": "HENSANDRI",
+      "telp": ""
+    }
+  ],
+  "pembayaran": {
+    "rekening": [],
+    "catatan": "1. Transfer ke rekening di atas\n2. Kirim bukti transfer ke Bendahara\n3. Iuran di bayar paling lambat tanggal 10 tiap bulan"
+  },
+  "ttd": {
+    "tempat": "Banyuasin",
+    "tanggal": "2026-10-08"
+  }
+}
