@@ -1,0 +1,33 @@
+{
+  "updated": "2026-10-17",
+  "mulai": 6,
+  "iuran": 10000,
+  "warga": [],
+  "kas": [],
+  "santunan": [],
+  "pengurus": [
+    {
+      "jabatan": "KETUA",
+      "nama": "IBRAHIM",
+      "telp": ""
+    },
+    {
+      "jabatan": "SEKERTARIS",
+      "nama": "NOPRIJAL",
+      "telp": ""
+    },
+    {
+      "jabatan": "BENDAHARA",
+      "nama": "HENSANDRI",
+      "telp": ""
+    }
+  ],
+  "pembayaran": {
+    "rekening": [],
+    "catatan": ""
+  },
+  "ttd": {
+    "bendahara": "",
+    "ketua": ""
+  }
+}
